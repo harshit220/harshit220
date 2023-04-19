@@ -6,8 +6,8 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
-    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Harshit</a></b>.
+    <br>I' m a Fullstack web developer from Noida.<br>
 
 </samp>
 
@@ -26,11 +26,10 @@
 
 
 
-- 👋 Hi, I’m @harshit220
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+<!-- - 👋 Hi, I’m @harshit220 -->
+- 🌱 I’m currently learning **Full Stack Web Development**
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me **https://www.linkedin.com/in/harshit-sachan-59bb83143/**
 
 <!---
 harshit220/harshit220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
