@@ -7,7 +7,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Harshit</a></b>.
-    <br>I' m a Fullstack web developer from Noida.<br>
+    <br>I' m a Fullstack web developer <img src="images/dev.gif" width="30"> from Noida.<br>
 
 </samp>
 
