@@ -35,11 +35,20 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
 
 <!-- - 👋 Hi, I’m @harshit220 -->
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 💞️ I’m looking to collaborate on ...
+  <hr/>
+🌱<p> What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+
+✔️  I aspire to work as a programmer.
+
+✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
+
+
+✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
+<hr/>
 - 📫 How to reach me **https://www.linkedin.com/in/harshit-sachan-59bb83143/**
   
   
