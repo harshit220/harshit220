@@ -48,8 +48,9 @@
 
 
 ✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
+  - 📫 How to reach me **https://www.linkedin.com/in/harshit-sachan-59bb83143/**
 <hr/>
-- 📫 How to reach me **https://www.linkedin.com/in/harshit-sachan-59bb83143/**
+
   
   
   ## My favorite tools and technologies ⚙️ 
