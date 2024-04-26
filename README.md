@@ -18,7 +18,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Harshit</a></b>.
-   <br> I am Full Stack Developer from Noida.<br>
+   <br> I am React Developer from Noida.<br>
 
 </samp>
 
