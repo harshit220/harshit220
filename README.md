@@ -1,4 +1,3 @@
-![MasterHead]
 
 <div align="justify">
   
